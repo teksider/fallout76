@@ -13,8 +13,3 @@ Notes for Fallout 76
 * wait till 30 secs to talk to master of ceremonies.
 * Then do all bots except one closest to the parade start. 
 * Start with 8 minutes left on event.
-
-### When you are 6th person 
-* wait till 30 secs to talk to master of ceremonies.
-* Then do all bots except one closest to the parade start. 
-* Then When super mutants are done on 5th Person's server you turn in last bot.
