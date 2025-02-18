@@ -8,3 +8,13 @@ Notes for Fallout 76
 * Then do all bots except one closest to the parade start. 
 * Then When super mutants are done on 3rd Person's server you turn in last bot. 
 * Should be around 14 minutes left remaining when parade starts
+
+### When you are 5th person 
+* wait till 30 secs to talk to master of ceremonies.
+* Then do all bots except one closest to the parade start. 
+* Then When super mutants are done on 4th Person's server you turn in last bot.
+
+### When you are 6th person 
+* wait till 30 secs to talk to master of ceremonies.
+* Then do all bots except one closest to the parade start. 
+* Then When super mutants are done on 5th Person's server you turn in last bot.
