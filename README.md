@@ -2,7 +2,11 @@
 Notes for Fallout 76
 
 ## Guide for running multiple Fasnacht Events
-
+### 2 & 3
+* start event as normal 
+* once previous parade completes - start
+    * For #2 - start once 1st parade completes
+    * For #3 - start once 2nd parade completes
 ### When you are 4th person 
 * wait till 30 secs to talk to master of ceremonies.
 * Then do all bots except one closest to the parade start. 
